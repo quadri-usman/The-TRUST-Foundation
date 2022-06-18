@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(238, 229, 217);
+    padding-top: 70px;
+}
+.navbar-inverse{
+    background-color: rgb(5, 5, 17);
+    color: black;
+}
+.jumbotron{
+    background: pink;
+    color: #04043f;
+}
+a{
+    color: red;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+#banner{
+    background-image: url(images/cement2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 200px 0;
+}
+.head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    width: 400px;
+    color: white;
+    margin: 0 auto;
+    background-color: green;
+    text-transform: uppercase;
+}
+.lead{
+    font-family:monospace ;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    width: 400px;
+    margin: 0 auto;
+    border: 2px double white;
+}
+#services, #Portfolio{
+    border: 6px solid purple;
+    margin: 0 auto;
+}
+
+
+
+@media (max-width: 768px){
+   
+    h1{
+        width: 400px;
+        margin: 0 auto;
+       color: green;
+        font-size: 2.0rem;
+        font-weight: 700;
+       text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;       
+    }
+}

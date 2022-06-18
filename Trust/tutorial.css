@@ -1,0 +1,108 @@
+body{ 
+     background-color: blanchedalmond;
+}
+.row{
+    background-image: url(https://media.istockphoto.com/photos/college-classroom-picture-id481914863);
+    background-position: center;
+    background-size: cover;
+    padding: 70px 0;   
+}
+.content{
+    text-align: center;
+    padding: 80px;
+    margin: 0 auto;
+    font-family: Oswal;
+    color: green;
+    font-size: 40;
+    
+    
+}
+button.btn-default{
+    background-color: white;
+    font-family: Oswal;
+    color: black;
+    font-size: 30;
+    border-radius: 2.0em;
+    border: 5px double red;
+
+}
+h1{
+    font-weight: 700;
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 800px;
+    margin: 0 auto;
+}
+.p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-shadow: 1px 3px 3px red;
+}
+h5{
+    color: red;
+    font-size: 16px;
+}
+.Contact, .Contactform{
+    background-color: white;
+}
+.Contactform{
+    text-align: center;
+}
+label{
+    color: rgb(9, 9, 21);
+    font-size: 16px;
+}
+.Plast{
+    color: white;
+    background-color: black;
+    padding: 20px 0;
+    text-align: center;
+    font-size: large;
+}
+button.btn-default{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(8, 8, 11);
+}
+html{
+    height: 100%;
+}
+hr{
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid white;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    background: fixed;
+    background-color: red;
+    color: white;
+}
+.navbar-default .navbar-brand{
+    color: white;
+}
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: yellow;
+}
+
+
+
+@media (max-width: 768px){
+    
+h1{
+    font-weight: 500;
+    font-size: 1.8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+}
+.p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-shadow: 1px 3px 3px red;
+}
+
+}
