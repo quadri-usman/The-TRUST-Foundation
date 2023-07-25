@@ -1,2 +1,2 @@
-# The-TRUST-Foundation
+# The-TRUST-Technology
 My organization to be established
