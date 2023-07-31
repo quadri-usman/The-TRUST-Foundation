@@ -1,0 +1,49 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+div.welcome{
+    background-image: url(images/student.jpg);
+    background-blend-mode: lighten;
+    background-position: center center;
+    background-size: cover;  
+    width: 60%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px 100px;    
+    text-align: center;
+}
+.welcome h2{
+    text-align: center;
+    color: black;
+}
+.welcome p{
+    margin: 20px auto;
+    text-align: justify;
+    line-height: 30px;
+}
+.welcome button{
+    padding: 8px;
+    text-align: center;
+}
+.welcome a{
+    text-decoration: none;
+    font-size: 16px;
+    color: green;
+}
+@media (max-width: 768px){
+    div.welcome{        
+        width: 100%;
+        margin: 10px auto; 
+        padding: 20px;       
+    }
+    .welcome p{
+        margin: 0 auto;
+        text-align: justify;
+        width: 80%;
+    }
+    h2.P1{
+    font-size: 16px;
+    }   
+    
+}
