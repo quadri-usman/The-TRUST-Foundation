@@ -130,6 +130,7 @@ a {
     grid-template-columns: auto auto auto;
     gap: 1.0em;
     justify-content: space-around;
+    padding: 10px;
   }
 
   .title {
@@ -139,7 +140,7 @@ a {
     font-size: 0.8em;    
   }
   li{
-    font-size: 12px;
+    font-size: 10px;
     color: black;
     font-weight: 600;
   }
