@@ -1,4 +1,4 @@
-# The-TRUST-Technology (Omu-Ijebu, Ijebu-Ode, Ogun State, Nigeria 
+# DTRUST-Technology (Omu-Ijebu, Ijebu-Ode, Ogun State, Nigeria 
 - This is an initiation of Engineer Quadri Usman (First Class of Electrical Engineering, ABU Zaria)
 - We are available for teaching and training of students physically and online.
 - Our courses include web development, robotics, product design, data analytics etc 
